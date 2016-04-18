@@ -1,0 +1,26 @@
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Debug\Miriot.Test.exe.config
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Debug\Miriot.Test.exe
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Debug\Miriot.Test.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Debug\Miriot.Common.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Debug\Miriot.Common.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\obj\Debug\Miriot.Test.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\obj\Debug\Miriot.Test.exe
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\obj\Debug\Miriot.Test.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Debug\Miriot.Test.exe.config
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\obj\Debug\Miriot.Test.exe
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\obj\Debug\Miriot.Test.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Debug\Miriot.Test.exe
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Debug\Miriot.Test.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Debug\Miriot.Common.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Debug\Miriot.Common.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\obj\Debug\Miriot.Test.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Test\bin\Debug\Miriot.Test.exe.config
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Test\obj\Debug\Miriot.Test.exe
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Test\obj\Debug\Miriot.Test.pdb
+C:\Users\jpamphile\Desktop\Xebienza\Back\Miriot.Test\bin\Debug\Miriot.Test.exe.config
+C:\Users\jpamphile\Desktop\Xebienza\Back\Miriot.Test\obj\Debug\Miriot.Test.exe
+C:\Users\jpamphile\Desktop\Xebienza\Back\Miriot.Test\obj\Debug\Miriot.Test.pdb

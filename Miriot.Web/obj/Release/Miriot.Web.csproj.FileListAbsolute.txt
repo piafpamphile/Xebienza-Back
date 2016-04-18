@@ -1,0 +1,225 @@
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Miriot.Web.dll.config
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Miriot.Web.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Miriot.Web.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.Data.OData.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.Data.Services.Client.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.ProjectOxford.Face.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Miriot.Common.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Newtonsoft.Json.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Swashbuckle.Core.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.Spatial.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.Web.Http.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\WebActivatorEx.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Miriot.Common.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.Data.OData.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.Data.Services.Client.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\Newtonsoft.Json.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.Spatial.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.Web.Http.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\de\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\es\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\it\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\obj\Release\Miriot.Web.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\obj\Release\Miriot.Web.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Web\obj\Release\Miriot.Web.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Miriot.Web.dll.config
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Miriot.Web.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Miriot.Web.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.Data.OData.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.Data.Services.Client.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.ProjectOxford.Face.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Miriot.Common.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Newtonsoft.Json.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Swashbuckle.Core.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Spatial.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Web.Http.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\WebActivatorEx.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Miriot.Common.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.Data.OData.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.Data.Services.Client.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\Newtonsoft.Json.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Net.Http.Extensions.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Net.Http.Primitives.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Spatial.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Web.Http.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\de\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\es\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\it\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\obj\Release\Miriot.Web.csproj.App.config
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\obj\Release\Miriot.Web.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\obj\Release\Miriot.Web.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Web\obj\Release\Miriot.Web.pdb
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Miriot.Web.dll.config
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Miriot.Web.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Miriot.Web.pdb
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.Data.OData.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.Data.Services.Client.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.ProjectOxford.Face.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Miriot.Common.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Newtonsoft.Json.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Swashbuckle.Core.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Spatial.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Web.Http.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\WebActivatorEx.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Miriot.Common.pdb
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.Data.OData.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.Data.Services.Client.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\Newtonsoft.Json.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Net.Http.Extensions.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Net.Http.Primitives.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Spatial.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Web.Http.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\de\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\es\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\it\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\obj\Release\Miriot.Web.csproj.App.config
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\obj\Release\Miriot.Web.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\obj\Release\Miriot.Web.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.Web\obj\Release\Miriot.Web.pdb

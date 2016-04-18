@@ -1,0 +1,10 @@
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Common\bin\Debug\Miriot.Common.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Common\bin\Debug\Miriot.Common.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Common\obj\Debug\Miriot.Common.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Common\obj\Debug\Miriot.Common.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Common\obj\Debug\Miriot.Common.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Common\bin\Debug\Miriot.Common.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Common\bin\Debug\Miriot.Common.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Common\obj\Debug\Miriot.Common.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Common\obj\Debug\Miriot.Common.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Common\obj\Debug\Miriot.Common.pdb

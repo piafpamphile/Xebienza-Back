@@ -1,0 +1,219 @@
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ComputeWebJobsSDKQueue.exe.config
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ComputeWebJobsSDKQueue.exe
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ComputeWebJobsSDKQueue.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Data.OData.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Data.Services.Client.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.ProjectOxford.Face.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Miriot.Common.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Newtonsoft.Json.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\System.Spatial.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Miriot.Common.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.Host.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Data.Edm.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Data.OData.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Data.Services.Client.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Newtonsoft.Json.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\System.Spatial.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\de\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\es\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\fr\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\it\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ja\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ko\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\ru\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\obj\Release\Miriot.WebJob.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\obj\Release\ComputeWebJobsSDKQueue.exe
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\obj\Release\ComputeWebJobsSDKQueue.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Web.WebJobs.Publish.Tasks.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Common.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Management.Scheduler.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Management.WebSites.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Common.NetFramework.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ComputeWebJobsSDKQueue.exe.config
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ComputeWebJobsSDKQueue.exe
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ComputeWebJobsSDKQueue.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Data.OData.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Data.Services.Client.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.ProjectOxford.Face.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Web.WebJobs.Publish.Tasks.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Miriot.Common.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Newtonsoft.Json.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\System.Spatial.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Common.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Management.Scheduler.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Management.WebSites.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Common.NetFramework.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Miriot.Common.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.Host.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Data.Edm.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Data.OData.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.Data.Services.Client.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\Newtonsoft.Json.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\System.Spatial.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\de\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\es\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\fr\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\it\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ja\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ko\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\ru\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\obj\Release\Miriot.WebJob.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\obj\Release\ComputeWebJobsSDKQueue.exe
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.WebJob\obj\Release\ComputeWebJobsSDKQueue.pdb
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ComputeWebJobsSDKQueue.exe.config
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ComputeWebJobsSDKQueue.exe
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ComputeWebJobsSDKQueue.pdb
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Data.OData.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Data.Services.Client.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.ProjectOxford.Face.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Web.WebJobs.Publish.Tasks.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Miriot.Common.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Newtonsoft.Json.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\System.Spatial.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Common.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Management.Scheduler.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Management.WebSites.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Common.NetFramework.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Miriot.Common.pdb
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Azure.WebJobs.Host.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Data.Edm.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Data.OData.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.Data.Services.Client.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\Newtonsoft.Json.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\System.Spatial.xml
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\de\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\es\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\fr\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\it\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ja\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ko\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\ru\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\obj\Release\Miriot.WebJob.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\obj\Release\ComputeWebJobsSDKQueue.exe
+C:\Users\jpamphile\Desktop\Xebienza\Miriot.WebJob\obj\Release\ComputeWebJobsSDKQueue.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="StorageConnection-Web.config Connection String" description="StorageConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultEndpointsProtocol=https;AccountName=devox;AccountKey=GW3gpzW2TtcSqxS+EWsq4+CiwN7IRb5yTpEIVaLVVYxyMIjmnxqbbwnqzNKPekw5UohX71odmRP72n4TOxAiWA==" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jpamphile\\Desktop\\Miriot\\Sources\\Miriot\.Web\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StorageConnection']/@connectionString" />
+  </parameter>
+</parameters>

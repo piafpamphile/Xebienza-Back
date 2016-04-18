@@ -1,0 +1,20 @@
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Release\Miriot.Test.exe.config
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Release\Miriot.Test.exe
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Release\Miriot.Test.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Release\Miriot.Common.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Release\Miriot.Common.pdb
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\obj\Release\Miriot.Test.csprojResolveAssemblyReference.cache
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\obj\Release\Miriot.Test.exe
+C:\Users\jpamphile\Documents\Visual Studio 2015\Projects\Miriot\Miriot.Test\obj\Release\Miriot.Test.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Release\Miriot.Test.exe.config
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\obj\Release\Miriot.Test.exe
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\obj\Release\Miriot.Test.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Release\Miriot.Test.exe
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Release\Miriot.Test.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Release\Miriot.Common.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Release\Miriot.Common.pdb
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\jpamphile\Desktop\Miriot\Sources\Miriot.Test\obj\Release\Miriot.Test.csprojResolveAssemblyReference.cache
